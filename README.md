@@ -1,9 +1,9 @@
-### Bem vindo(a)!! me chamo Matheus, e sou Desenvolvedor Front-end Jr
+### Bem vindo(a)!!<br> me chamo Matheus, e sou Desenvolvedor Front-end Jr
 
 <div align="center">
   <a href="https://github.com/matheusidt">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=matheusidt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusidt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusidt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusidt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
